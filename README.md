@@ -1,7 +1,7 @@
 # meme-downloader
 
-Place the file in a directory where you want your all memes to be stored.
-Run the python file. That's it.
+Place meme.py the file in a directory where you want your all memes to be stored.
+Run the file. That's it ;)
 
 <b>Warning:</b>
 *After running the program for the first time, It will create some folders and a file called 'pages.json' in the same directory. Don't edit that file manually or it may cause the program to crash.
