@@ -8,10 +8,10 @@ Run the python file. That's it.
 
 
 <b>Features:</b>
-1) Add as many facebook pages add you want
-2) You can set how many memes should be downloaded each time
-3) Seperate folder for new downloaded memes. You can clear it anytime.
-4) MemesByPage folder which contains all the memes in folders named by the page names
+1) Add as many facebook pages as you want
+2) You can set how many memes should be downloaded each time before downloading
+3) Seperated folder for new downloaded memes (NewMemes, MemesByPage). You can clear them anytime.
+4) MemesByPage folder which contains all the memes in stored i subfolders named by the page names
 5) Broken downloads will be automatically removed
 6) You can view the list of the pages currently used by the program to download memes
 7) You can remove one or more pages easily, but you will have to add one by one
